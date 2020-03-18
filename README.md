@@ -1,2 +1,2 @@
 # Hello-World
-Test
+This is my first commit in git hub, just giving it a try.
